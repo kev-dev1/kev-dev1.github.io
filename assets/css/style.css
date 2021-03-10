@@ -1,0 +1,28 @@
+html {
+    scroll-behavior: smooth;
+}
+@media screen and (max-device-width: 320px) and (orientation: portrait) {
+    .card {
+        width: 100%;
+    }
+}
+
+.floating-item {
+    position:fixed;
+    width:50px;
+    height:50px;
+    bottom:20px;
+    right:20px;
+    z-index: 1;
+}
+
+@media screen (min-device-width: 319px) {
+    .card {
+        width: 60%;
+        margin: 20%
+    }
+
+    .floating-item {
+        right: 15%M
+    }
+}

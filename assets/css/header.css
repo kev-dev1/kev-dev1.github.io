@@ -1,0 +1,19 @@
+.header-green {
+    background: linear-gradient(100deg ,#339933, #FFFF66)
+}
+
+@media (min-width:770px) {
+    .header-green {
+        padding-bottom: 130px;
+    }
+}
+
+.header-green .navbar {
+    background: transparent;
+    padding-top: .50rem;
+    padding-bottom: .50rem;
+    color: #339933;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+}
