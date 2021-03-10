@@ -17,3 +17,15 @@
     box-shadow: none;
     border: none;
 }
+
+.header-green .navbar .form-inline {
+    display: inline-block;
+    width: 70%;
+    background: none;
+    border-bottom: 1px solid transparent;
+    border-radius: 0;
+    color: #808080;
+    box-shadow: none;
+    color: inherit;
+    transition: border-bottom-color 0.5s;
+}
