@@ -8,3 +8,8 @@ The Project´s that I make, are free time work. I focus on programming script.
 
 ## FOSS Apps for Android
 <a href="https://github.com/kev-dev1/FOSS-Apps-for-Android" target="_blank" title="FOSS Apps for Android">FOSS Apps for Android</a>
+
+
+
+
+<a href="https://t.me/kev_tolka" target="_blank" title="Telegram">Telegram</a> <a >Mail (Comming Soon)</a> <a >Mastodon (Comming Soon)</a>
