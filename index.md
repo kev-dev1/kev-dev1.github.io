@@ -1,8 +1,7 @@
 
 # Kev-Dev Projects
 
-I focus on Open Source and Privacy. Actually I working on Program Scripts.
-All the Project´s are working on my free time.
+I focus on Open Source and Privacy. Actually I working on Program Scripts and all the Project´s are working on my free time.
 
 ## Linux Kernel Compiler (Under Developing)
 <a href="https://github.com/kev-dev1/Linux-Kernel-Compiler" target="_blank" title="Linux Kernel Compiler">Linux Kernel Compiler</a>
