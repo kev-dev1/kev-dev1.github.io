@@ -11,4 +11,4 @@ I focus on Open Source and Privacy. Actually I working on Program Scripts and al
 
 
 # Contact
-<a href="https://t.me/kev_tolka" target="_blank" title="Telegram">Telegram</a> <a href="mailto://kevdev@tuta.io" title="Mail">Mail</a> <a >Mastodon (Comming Soon)</a>
+<a href="https://t.me/kev_tolka" target="_blank" title="Telegram">Telegram</a> <a href="mailto://kevdev@tuta.io" title="Mail">Mail</a> <a rel="me" href="https://fosstodon.org/@kevdev">Mastodon</a>
