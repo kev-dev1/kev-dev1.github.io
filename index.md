@@ -3,7 +3,7 @@
 
 I focus on Open Source and Privacy. Actually I working on Program Scripts and all the Project´s are working on my free time.
 
-## Linux Kernel Compiler (Under Developing)
+## Linux Kernel Compiler (Under Developing) [ALPHA]
 <a href="https://github.com/kev-dev1/Linux-Kernel-Compiler" target="_blank" title="Linux Kernel Compiler">Linux Kernel Compiler</a>
 
 ## FOSS Apps for Android
