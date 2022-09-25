@@ -3,6 +3,9 @@ description: This is my Project Site
 
 theme: minima
 
+minima:
+skin: auto
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
